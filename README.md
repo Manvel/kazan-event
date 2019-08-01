@@ -1,4 +1,6 @@
-# Presentation preparation starter based on Reveal.js and CMintS
+# Slides for Kazan event
+
+The project was moved into the [Google slides](https://docs.google.com/presentation/d/1R-C0hacXU1zoaFyIyCvICkvfgcev4AhfnqMY9v5WCyY).
 
 ## Installation
 
